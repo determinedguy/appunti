@@ -1,3 +1,24 @@
 site_name: Appunti
+site_author: Muhammad Athallah
 theme:
   name: material
+  features:
+    - navigation.tabs
+    - navigation.indexes
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: green
+      accent: red
+      toggle:
+        icon: material/weather-night
+        name: Passa alla modalità oscura
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: green
+      accent: red
+      toggle:
+        icon: material/weather-sunny
+        name: Passa alla modalità luce
