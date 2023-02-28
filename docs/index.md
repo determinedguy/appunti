@@ -1,17 +1,18 @@
-# Welcome to MkDocs
+# Introduzione
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+**Benvenuti! Welcome!**
 
-## Commands
+Welcome to Appunti, a dedicated website for the notes from the Italian courses offered by Universitas Indonesia.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+This website is built by Muhammad Athallah.
 
-## Project layout
+## Elenco dei Corsi
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Universitas Indonesia offers four Italian courses.
+
+- Bahasa Italia Dasar A (HMFR630003)
+- Bahasa Italia Dasar B (HMFR630004)
+- Kebudayaan Italia (HMFR630007)
+- Sejarah Italia (HMFR630061)
+
+This website is built when the courses are taught by Professoressa Antonietta Maria Sireci.
