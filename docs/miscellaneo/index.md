@@ -6,6 +6,17 @@ If you want to take part in Italian events in Jakarta, you should check out [Ita
 
 The ticket is usually available to be ordered at [Eventbritte](https://www.eventbrite.com/o/italian-cultural-institute-jakarta-46484528793).
 
+Some worldwide annual Italian events:
+
+- [The Week of the Italian Language in the World (*La Settimana della Lingua Italiana nel Mondo*)](https://italiana.esteri.it/italiana/en/progetti/week-of-the-italian-language-in-the-world/), held in every year the third week of October.
+- [Fare Cinema](https://italiana.esteri.it/italiana/en/progetti/fare-cinema/), held in May or June annually.
+- The Week of Italian Cuisine in the World (*La Settimana della Cucina Italiana nel Mondo*).
+- [Italian Design Day](https://italiana.esteri.it/italiana/en/progetti/italian-design-day/).
+
+Some annual Italian events held only in Indonesia:
+
+- Italian Film Festival.
+
 ## Manuale
 
 The language courses use a textbook titled "Nuovo Espresso" made by Alma Edizioni.
