@@ -1,5 +1,7 @@
 site_name: Appunti
 site_author: Muhammad Athallah
+site_description: >-
+  Un sito web dedicato agli appunti dei corsi di italiano offerti da Universitas Indonesia.
 theme:
   name: material
   language: en
