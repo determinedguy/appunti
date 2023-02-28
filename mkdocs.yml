@@ -2,6 +2,9 @@ site_name: Appunti
 site_author: Muhammad Athallah
 theme:
   name: material
+  language: en
+  logo: assets/img/logo.png
+  favicon: assets/img/logo.png
   features:
     - navigation.tabs
     - navigation.indexes
