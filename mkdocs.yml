@@ -23,3 +23,14 @@ theme:
         icon: material/weather-sunny
         name: Passa alla modalità luce
 
+nav:
+  - Homepage:
+    - index.md
+  - Italiano di Base A:
+    - lingua-a/index.md
+  - Italiano di Base B:
+    - lingua-b/index.md
+  - Cultura:
+    - cultura/index.md
+  - Storia:
+    - storia/index.md
