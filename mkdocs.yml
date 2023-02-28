@@ -22,3 +22,14 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Passa alla modalità luce
+extra:
+  alternate:
+    - name: English
+      link: /en/
+      lang: en
+    - name: Bahasa Indonesia
+      link: /id/
+      lang: id
+    - name: Italiano
+      link: /it/
+      lang: it
