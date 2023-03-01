@@ -1,4 +1,4 @@
-# La Musica
+# Musica
 
 This page contains the author's favorite Italian pieces of music.
 
