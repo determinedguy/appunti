@@ -11,7 +11,7 @@ Some worldwide annual Italian events:
 - [The Week of the Italian Language in the World (*La Settimana della Lingua Italiana nel Mondo*)](https://italiana.esteri.it/italiana/en/progetti/week-of-the-italian-language-in-the-world/), held in every year the third week of October.
 - [Fare Cinema](https://italiana.esteri.it/italiana/en/progetti/fare-cinema/), held in May or June annually.
 - The Week of Italian Cuisine in the World (*La Settimana della Cucina Italiana nel Mondo*).
-- [Italian Design Day](https://italiana.esteri.it/italiana/en/progetti/italian-design-day/).
+- [Italian Design Day](https://italiana.esteri.it/italiana/en/progetti/italian-design-day/); they have [their own website](https://italiandesignday.it/), apparently.
 
 Some annual Italian events held only in Indonesia:
 
@@ -44,4 +44,4 @@ The Basic Italian A course and Basic Italian B course use the A1 level textbook.
 
     You can access the course through the [MIT OpenCourseWare](https://ocw.mit.edu/courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/). The course website contains syllabus, lessons, video lecturers, recipes, and other supplementary materials.
 
-    This course also has blog. You can access the blog [here](http://speakcookitalian.blogspot.com/).
+    This course also has their own blog. You can access the blog [here](http://speakcookitalian.blogspot.com/).
