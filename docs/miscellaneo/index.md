@@ -23,6 +23,8 @@ The language courses use a textbook titled "Nuovo Espresso" made by Alma Edizion
 
 The Basic Italian A course and Basic Italian B course use the A1 level textbook.
 
+You can access the materials [here](https://www.almaedizioni.it/en/minisiti/nuovo-espresso/).
+
 ## Risorse Esterne
 
 1. Benvenuti in Italia! Orientarsi con l'italiano - Politecnico di Milano & Università di Bologna
