@@ -34,6 +34,7 @@ nav:
     - index.md
   - Italiano di Base A:
     - lingua-a/index.md
+    - Lesson List: lingua-a/lezioni.md
   - Italiano di Base B:
     - lingua-b/index.md
   - Cultura:
@@ -43,5 +44,5 @@ nav:
   - Miscellaneo:
     - miscellaneo/index.md
     - BBC Talk Italian: miscellaneo/bbc-talk-italian.md
-    - Musica: miscellaneo/musica.md
     - FSI Courses: miscellaneo/fsi.md
+    - YouTube: miscellaneo/youtube.md
