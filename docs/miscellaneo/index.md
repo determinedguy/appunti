@@ -47,9 +47,3 @@ You can access the materials [here](https://www.almaedizioni.it/en/minisiti/nuov
     You can access the course through the [MIT OpenCourseWare](https://ocw.mit.edu/courses/es-s41-speak-italian-with-your-mouth-full-spring-2012/). The course website contains syllabus, lessons, video lecturers, recipes, and other supplementary materials.
 
     This course also has their own blog. You can access the blog [here](http://speakcookitalian.blogspot.com/).
-
-3. Learn Italian in 30 Days - Dolce Vita with Luca & Marina
-
-    This YouTube playlist (or course) delivers basic Italian in an interactive way. This course will guide you to learn Italian in a slow but fun way for thirty days. Luca acts as the instructor while Marina acts as the student. There are English and Italian subtitles if you do not understand the audio well, so do not worry. There is also workbook for exercises, but unfortunately it is not free (unlike the videos).
-
-    You can check the playlist [here](https://www.youtube.com/playlist?list=PLHI2TAm-NyNPpFJriRvVbxVoJ4jksDUUH).
