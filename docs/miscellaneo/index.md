@@ -25,6 +25,10 @@ The Basic Italian A course and Basic Italian B course use the A1 level textbook.
 
 You can access the materials [here](https://www.almaedizioni.it/en/minisiti/nuovo-espresso/).
 
+Professoressa sometimes uses the "Io e l'italiano" book by Le Monnier/Mondadori Education.
+
+You can check the details [here](https://www.mondadorieducation.it/risorse/media/sito_italianoperstranieri/catalogo/dettaglio/io-e-l-italiano.html) and [here, if you want to buy it too](https://www.mondadorieducation.it/catalogo/io-litaliano-0026989/).
+
 ## Risorse Esterne
 
 1. Benvenuti in Italia! Orientarsi con l'italiano - Politecnico di Milano & Università di Bologna
